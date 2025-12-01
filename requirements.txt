@@ -1,0 +1,4 @@
+aiohttp==3.9.5
+beautifulsoup4==4.12.3
+grokapi==0.1.0  # Install via pip; for xAI Grok
+python-dotenv==1.0.1
